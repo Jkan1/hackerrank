@@ -22,5 +22,3 @@
         List<Integer> scoreList = Arrays.asList(score);
         return scoreList;
     }
-
-}
